@@ -21,7 +21,7 @@ h1 {
 
 .container {
   position: relative;
-  justify-content: center;
+  left: 10rem;
 }
 
 .qr-card {
@@ -47,6 +47,8 @@ h1 {
 .attribution {
   font-size: 16px;
   text-align: center;
+  position: relative;
+  right: 10rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
